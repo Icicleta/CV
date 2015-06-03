@@ -1,6 +1,6 @@
-## Your Name
+## Iciar Novo Fernández
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I’m a hard worker and stubborn person, I can't take rest until I pull my work off, always ready to learn new things and adopt new skills. With a background of 8 years as video editor, jumped to a web career attracted by new technologies and network world. My short experience as front end made me realise I needed pumping up my skills and I started to be seduced by back end. Four intensive months at Makers Academy 'Ronin' Web Development Bootcamp, would pump my front end skills and become a junior web developer.
 
 ## Skills
 
