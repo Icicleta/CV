@@ -1,6 +1,6 @@
 ## Iciar Novo Fernández
 
-I’m a hard worker and stubborn person, I can't take rest until I pull my work off, always ready to learn new things and adopt new skills. With a background of 8 years as video editor, jumped to a web career attracted by new technologies and network world. Four intensive months at Makers Academy 'Ronin' Web Development Bootcamp, would pump my front end skills and convert me in a junior web developer, happily doing something I love and feel stimulated by, ready to learn more and more every day. It is a true source of motivation knowing that every single project will be something new, interesting and different.
+I’m a hard worker and stubborn person, I can't take rest until I pull my work off, always ready to learn new things and adopt new skills. With a background of 8 years as video editor, jumped to a web career attracted by new technologies and network enviroment. Four intensive months at Makers Academy 'Ronin' Web Development Bootcamp, would pump my front end skills and convert me in a junior web developer, happily doing something I love and feel stimulated by, ready to learn more and more every day. It is a true source of motivation knowing that every single project will be something new, interesting and different.
 
 ## Skills
 
