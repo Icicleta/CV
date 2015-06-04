@@ -36,27 +36,45 @@ Given that I joined the Makers Academy Ronin it wasn't another way to work that 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2015 to June 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Highly selective, intensive 16 week full-time course
+- Pair programming and agile methodologies
+- Test driven and behaviour driven development
+- Cucumber, Rspec and Capybara for Ruby based projects and Jasmine for Angular and Javascript products.
+- Object oriented programming and software design
+- Version control with git and GitHub
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Experience with APIs including Twilio, Stripe and Zinc.io
+- Databases/ORMs PostgreSQL, MongoDB, DataMapper, ActiveRecord
+- Deployment with Heroku and AWS
+-
+- [Final project](https://github.com/Icicleta/present_cobuy-1)
 
-#### Your University / College (start_date to end_date)
+#### Tower Hamlets College (2009 to 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- FL3: Access to Design for Web - Web Standards
+- Luckily, I had found the best individuals possible to open me up to the world of web design as well as transmitting  passion for the all that refers to graphic design, the Internet and of course web design which includes: 
+    - Hand coding HTML and CSS operating within web standards
+    - Jquery libraries
+    - Accesibility
+    - Cross-browser testing
 
-#### Any other qualifications
+#### Image and Sound School (1996 - 1998)
+ - Technician Superior in Production of Audiovisuals and Spectacles
+ - Specialized in video edition. 
+ - Focus mainly in direction and post-production, but also subjects as camera, sound, production and audiovisual technical, were given.
 
 ## Experience
+  
+**Freelance**  (2014 to present)    
+*Web Designer & Front End Developer*  
+Designing and building personal websites. Handcode, edition and modification of templates, newsletters and maintenance of wordpress websites
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bullingdon Capital** (October 2011 to May 2012)   
+*Front End Developer*  
+Part of the team to create a Finance application. In charge of convert designs into html and css. Also implementation of features using javascript and Jquery. A bit of Object Orientated Programing and use of version control system Git.
 
+**[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (October 2011 to May 2009)   
+I've been working for 8 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
