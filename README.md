@@ -4,14 +4,14 @@ I’m a hard worker and stubborn person, I can't take rest until I pull my work 
 
 ## Skills
 
-#### HTML5, CSS3, Bootstrap
+#### HTML5, CSS3, Bootstrap, Jquery
 
 A course of Web Design opened me up to the world of web design and I was transmitted passion for web, I would have my first contacts with HTML, CSS operating within  web standards.
 I’ve worked in some projects as front-end developer what allowed me to improve my skills and have experience on:
-Interpreting graphic visual or interaction designs in HTML, CSS and Javascript.
-Knowledge of how to employ the jQuery library for visual effects, event handling, and document manipulation.
-Testing cross-browser, cross-platform, and/or cross-device compatibility for inconsistencies.
-Programming interaction with JavaScript and/or a library such as jQuery
+- Interpreting graphic visual or interaction designs in HTML, CSS and Javascript.
+- Knowledge of how to employ the jQuery library for visual effects, event handling, and document manipulation.
+- Testing cross-browser, cross-platform, and/or cross-device compatibility for inconsistencies.
+- Best practice in css file organization and structure.
 
   - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
   - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
@@ -20,16 +20,19 @@ Programming interaction with JavaScript and/or a library such as jQuery
 
 #### Agile
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Makers Academy introduced me on working on a agile enviroment. We would have standups twice every day, first time in the morning and first thing after lunch. We used both processes, Scrum and Kanban, to comunicate between each other, coordinate our tasks, talk about any obstcle that would stop us in our progress.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From the begining to the end of Makers Academy course we would work pairing, learning new skills as also working in different projects. That amount of hours practicing made me gain confident working in a pair or even with more people, both navigating and driving. 
 
 #### BDD
 
+I have to admit that I was a bit sceptic about TDD at the beginning, but after some real projects working in a TDD enviroment I saw the light. I realized how important is to work throuh testing process. Not just to make sure the project won't fail also to debugging and help with nexts steps in the creation of the web aplication. I also find it very helfull to have a glance to the whole project throught the creation of User Stories, from where I would also decide my MVp's and MVP's.
+
+I have used Cucumber, Rspec and Capybara for Ruby based projects and Protractor and Jasmine for Angular and Javascript products.
+
 #### Git
+
+Given that I joined the Makers Academy Ronin it wasn't another way to work that using git since almost first day. After a intense week learning everything about Git, I started to use it on every single project. I found myself quickly familiar with all the commands and actually loving it. On the last projects I followed the Git branching model as much as possible with my co-workers, creating branch for feature and merging with develop and finally master. Solving problems given to some error commited, etc.
 
 ## Education
 
