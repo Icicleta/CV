@@ -4,15 +4,21 @@ I’m a hard worker and stubborn person, I can't take rest until I pull my work 
 
 ## Skills
 
-#### This Skill
+#### HTML5, CSS3, Bootstrap
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+A course of Web Design opened me up to the world of web design and I was transmitted passion for web, I would have my first contacts with HTML, CSS operating within  web standards.
+I’ve worked in some projects as front-end developer what allowed me to improve my skills and have experience on:
+Interpreting graphic visual or interaction designs in HTML, CSS and Javascript.
+Knowledge of how to employ the jQuery library for visual effects, event handling, and document manipulation.
+Testing cross-browser, cross-platform, and/or cross-device compatibility for inconsistencies.
+Programming interaction with JavaScript and/or a library such as jQuery
 
-- Experience
-- Achievements
-- Evidence
+  - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
+  - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
+  - [Wordpress maintaince and update](http://s8cinema.com)
+  - [Web applications](http://400holidays.com/)
 
-#### HTML5, CSS3, Sketch, Bootstrap
+#### Agile
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +26,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### BDD
+
+#### Git
 
 ## Education
 
