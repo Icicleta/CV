@@ -1,6 +1,6 @@
 ## Iciar Novo Fernández
 
-I’m a hard worker and stubborn person, I can't take rest until I pull my work off, always ready to learn new things and adopt new skills. With a background of 8 years as video editor, jumped to a web career attracted by new technologies and network enviroment. Four intensive months at Makers Academy 'Ronin' Web Development Bootcamp, would pump my front end skills up and turn me in a junior web developer. Happily doing something I feel stimulated by, ready to learn more every day. It is a true source of motivation knowing that every single project will be something new, interesting and different.
+I’m a hard worker and stubborn person, I can't take rest until I pull my work off, always ready to learn new things and adopt new skills. With a background of 10 years as video editor, jumped to a web career attracted by new technologies and network enviroment. Four intensive months at Makers Academy 'Ronin' Web Development Bootcamp, would pump my front end skills up and turn me in a junior web developer. Happily doing something I feel stimulated by, ready to learn more every day. It is a true source of motivation knowing that every single project will be something new, interesting and different.
 
 ## Skills
 
@@ -76,5 +76,5 @@ Designing and building personal websites. Handcode, edition and modification of 
 *Front End Developer*  
 Part of the team to create a Finance application. In charge of convert designs into html and css. Also implementation of features using javascript and Jquery. A bit of Object Orientated Programing and use of version control system Git.
 
-**[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (October 2011 to May 2009)   
-I've been working for 8 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
+**[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (1998 to 2008)   
+I've been working for 10 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
