@@ -39,8 +39,7 @@ Code examples
 
 | [GiftBox](https://github.com/Icicleta/present_cobuy-1) | [SkillExchange](https://github.com/Icicleta/skill-exchange) | [Airport](https://github.com/Icicleta/airport_challenge) |
 |:--------- |:-------- |:--------- |
-|Ruby on Rails 4 app. It will make the Amazon gift purchase on recieving the final contribution, hence pushing the responisibility from the organiser onto the group as a whole to ensure that last person contributes, providing a dashboard to monitor the progress. | Rails 4 app that brings together those who want to share skills, with those who want to learn skills, through google hangout videos.
- | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+|Ruby on Rails 4 app. It will make the Amazon gift purchase on recieving the final contribution, hence pushing the responisibility from the organiser onto the group as a whole to ensure that last person contributes, providing a dashboard to monitor the progress. | Rails 4 app that brings together those who want to share skills, with those who want to learn skills, through google hangout videos. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
 
 
