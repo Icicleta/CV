@@ -37,9 +37,9 @@ Given that I joined the Makers Academy Ronin it wasn't another way to work that 
 Code examples
 -------------
 
-| [Hen Party App] | [Sudoku] | [Airport] |
+| [GiftBox](https://github.com/Icicleta/present_cobuy-1) | [SkillExchange](https://github.com/Icicleta/skill-exchange) | [Airport] |
 |:--------------- |:-------- |:--------- |
-| Rails MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+| Is a Ruby on Rails 4 app, will make the Amazon gift purchase on recieving the final contribution, hence pushing the responisibility from the organiser onto the group as a whole to ensure that last person contributes, providing a dashboard to monitor the progress. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
 
 
@@ -58,7 +58,7 @@ Code examples
 - Experience with APIs including Twilio, Stripe and Zinc.io
 - Databases/ORMs PostgreSQL, MongoDB, DataMapper, ActiveRecord
 - Deployment with Heroku and AWS
-- Final project, [GiftBox](https://github.com/Icicleta/present_cobuy-1)
+- Final project, [GiftBox](https://github.com/Icicleta/present_cobuy-1)  Rails 4 app that provides a system to collaborate on present buying via Amazon, allowing the organizer to select a gift and invite contributors to participate. Created in 10 days with @Gwasanaethau, @ilyafaybisovich and @RBGeomaticsRob
 
 #### Tower Hamlets College (2009 to 2010)
 
