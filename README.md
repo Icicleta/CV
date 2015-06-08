@@ -78,3 +78,12 @@ Part of the team to create a Finance application. In charge of convert designs i
 
 **[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (1998 to 2008)   
 I've been working for 10 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
+
+## Interests
+
+
+## Contact me
+
+[icicleta@gmail.com](mailto:icicleta@gmail.com)
+[Linkedin](https://www.linkedin.com/in/icicleta)
+[Github](https://github.com/Icicleta)
