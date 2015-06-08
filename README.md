@@ -34,6 +34,15 @@ I have used Cucumber, Rspec and Capybara for Ruby based projects and Protractor 
 
 Given that I joined the Makers Academy Ronin it wasn't another way to work that using git since almost first day. After a intense week learning everything about Git, I started to use it on every single project. I found myself quickly familiar with all the commands and actually loving it. On the last projects I followed the Git branching model as much as possible with my co-workers, creating branch for feature and merging with develop and finally master. Solving problems given to some error commited, etc.
 
+Code examples
+-------------
+
+| [Hen Party App] | [Sudoku] | [Airport] |
+|:--------------- |:-------- |:--------- |
+| Rails MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+
+
+
 ## Education
 
 #### Makers Academy (February 2015 to June 2015)
@@ -49,8 +58,7 @@ Given that I joined the Makers Academy Ronin it wasn't another way to work that 
 - Experience with APIs including Twilio, Stripe and Zinc.io
 - Databases/ORMs PostgreSQL, MongoDB, DataMapper, ActiveRecord
 - Deployment with Heroku and AWS
--
-- [Final project](https://github.com/Icicleta/present_cobuy-1)
+- Final project, [GiftBox](https://github.com/Icicleta/present_cobuy-1)
 
 #### Tower Hamlets College (2009 to 2010)
 
@@ -80,10 +88,13 @@ Part of the team to create a Finance application. In charge of convert designs i
 I've been working for 10 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
 
 ## Interests
-
+  - Sports, since a kid I love practice any sport. My last find is badminton, even though I had to stop cause knee injury.
+  - Art, I can say which kind I like more as I open to any field. Two event I try to don't miss every year are, [Internation Theatre Festival](http://www.mitribadavia.com/), and [S8 Cinema Festival](http://www.s8cinema.com/portal/en/).
+  - Travel, ideally if the trip can last weeks or months, I like as much as discover new places, learn their cultures, know their people, their traditions... 
+  - Technology, it never stops to surprise me how fast the world is growing up technology speaking. I follow a few crowfunding websites and I love to check the new ideas people come up with and makes me happy seeing that people without resources can take this ideas and carry out them.
 
 ## Contact me
 
-[icicleta@gmail.com](mailto:icicleta@gmail.com)
-[Linkedin](https://www.linkedin.com/in/icicleta)
-[Github](https://github.com/Icicleta)
+- [icicleta@gmail.com](mailto:icicleta@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/icicleta)
+- [Github](https://github.com/Icicleta)
