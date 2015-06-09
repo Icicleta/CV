@@ -13,11 +13,7 @@ I’ve worked in some projects as front-end developer what allowed me to improve
   -	Event Handling
   -	Document Manipulation 
   -	Testing cross-browser, cross platform, and/or cross-device compatibility for inconsistencies
-  -	Best practice in CSS file organization and structure;
-  - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
-  - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
-  - [Wordpress maintaince and update](http://s8cinema.com)
-  - [Web applications](http://400holidays.com/)
+  -	Best practice in CSS file organization and structure
 
 #### Agile
 
@@ -75,13 +71,18 @@ Code examples
   
 **Freelance**  (2014 to present)    
 *Web Designer & Front End Developer*  
-Designing and building personal websites. Handcode, edition and modification of templates, newsletters and maintenance of wordpress websites
+Designing and building personal websites. Handcode, edition and modification of templates, newsletters and maintenance of wordpress websites.
+  - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
+  - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
+  - [Wordpress maintaince and update](http://s8cinema.com)
+  - [Web applications](http://400holidays.com/)
 
 **Bullingdon Capital LLP** (October 2011 to May 2012)   
 *Front End Developer*  
 Part of the team to create a Finance application, [QuanTemplate](https://www.quantemplate.com/). In charge of convert designs into html and css. Also implementation of features using javascript and Jquery. A bit of Object Orientated Programing and use of version control system Git.
 
 **[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (1998 to 2008)   
+*Video Editor*
 I've been working for 10 years for the more influent producer companies in Galicia. Working in any sort of audiovisual product for the [CRTVG](http://www.crtvg.es/tvg).
 
 ## Contact me
