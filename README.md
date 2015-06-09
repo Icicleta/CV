@@ -74,12 +74,12 @@ Code examples
 Designing and building personal websites. [Handcode](http://beatrizpenedoruzo.co.uk), [edition and modification of templates](http:viviancallegaro.com/), newsletters and [maintenance and update of wordpress websites](http://s8cinema.com).
 
 **[400holidays](http://400holidays.com/)** (September 2012 to June 2013)   
-*Front End Developer* 
+*Front End Developer*
 My main responsibility is the production, modification and maintenance of the PHP web application user interface.
 
 **Bullingdon Capital LLP** (October 2011 to May 2012)   
 *Front End Developer*  
-Part of the team to create a Finance application, [QuanTemplate](https://www.quantemplate.com/). In charge of convert designs into html and css. Also implementation of features using javascript and Jquery. A bit of Object Orientated Programing and use of version control system Git.
+Part of the team to create a Finance Ruby on Rails application, [QuanTemplate](https://www.quantemplate.com/). In charge of convert designs into html and css. Also implementation of features using javascript and Jquery.
 
 **[VozAudiovisual](http://www.vozaudiovisual.es/), [CTV](http://www.ctvmedia.es/), Continental** (1998 to 2008)   
 *Video Editor*
