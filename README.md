@@ -7,13 +7,13 @@ After 10 years in video editing I wanted a new challenge. Attracted by different
 #### HTML5, CSS3, Bootstrap, Jquery
 
 I’ve worked in some projects as front-end developer what allowed me to improve my skills and have experience on:
-  •	Interpreting graphic visuals
-  •	Interaction designs in HMTL, CSS and Javascript
-  •	Employ the jQuery library for visual effects
-  •	Event Handling
-  •	Document Manipulation 
-  •	Testing cross-browser, cross platform, and/or cross-device compatibility for inconsistencies
-  •	Best practice in CSS file organization and structure;
+  - Interpreting graphic visuals
+  - Interaction designs in HMTL, CSS and Javascript
+  -	Employ the jQuery library for visual effects
+  -	Event Handling
+  -	Document Manipulation 
+  -	Testing cross-browser, cross platform, and/or cross-device compatibility for inconsistencies
+  -	Best practice in CSS file organization and structure;
 
   - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
   - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
