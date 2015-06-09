@@ -27,7 +27,7 @@ I have used Cucumber, Rspec and Capybara for Ruby based projects and Protractor 
 
 #### Git
 
-After learning about GIT I began to use it on every single project, quickly becoming familiar with all the commands. On the last project I followed the GIT branching model with my co-workers, creating branch for feature, merging with develop and finally master and solving problems given to some error committed 
+After learning about GIT I began to use it on every single project, quickly becoming familiar with all the commands. On the last project I followed the GIT branching model with my co-workers, creating branch for feature, merging with develop and finally master.
 
 Code examples
 -------------
