@@ -71,11 +71,11 @@ Code examples
   
 **Freelance**  (2014 to present)    
 *Web Designer & Front End Developer*  
-Designing and building personal websites. Handcode, edition and modification of templates, newsletters and maintenance of wordpress websites.
-  - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
-  - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
-  - [Wordpress maintaince and update](http://s8cinema.com)
-  - [Web applications](http://400holidays.com/)
+Designing and building personal websites. [Handcode](http://beatrizpenedoruzo.co.uk), [edition and modification of templates](http:viviancallegaro.com/), newsletters and [maintenance and update of wordpress websites](http://s8cinema.com).
+
+**[400holidays](http://400holidays.com/)** (September 2012 to June 2013)   
+*Front End Developer* 
+My main responsibility is the production, modification and maintenance of the PHP web application user interface.
 
 **Bullingdon Capital LLP** (October 2011 to May 2012)   
 *Front End Developer*  
@@ -88,5 +88,6 @@ I've been working for 10 years for the more influent producer companies in Galic
 ## Contact me
 
 - [icicleta@gmail.com](mailto:icicleta@gmail.com)
+- [Website](http://icicleta.com)
 - [Linkedin](https://www.linkedin.com/in/icicleta)
 - [Github](https://github.com/Icicleta)
