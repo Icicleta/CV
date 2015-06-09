@@ -14,7 +14,6 @@ I’ve worked in some projects as front-end developer what allowed me to improve
   -	Document Manipulation 
   -	Testing cross-browser, cross platform, and/or cross-device compatibility for inconsistencies
   -	Best practice in CSS file organization and structure;
-
   - [Personal websites handcoded](http://beatrizpenedoruzo.co.uk)
   - [Personal websites from edition and mofification of templates](http:viviancallegaro.com/)
   - [Wordpress maintaince and update](http://s8cinema.com)
